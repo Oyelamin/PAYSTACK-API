@@ -10,6 +10,7 @@
 ## PAYSTACK API
 
 To charge a card{
+
     First Point
     --------------------------
     The first point handles the card number, cvv, expiry month and year.
